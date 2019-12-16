@@ -1,0 +1,16 @@
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\bin\Debug\BlogProject.Services.dll
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\bin\Debug\BlogProject.Services.pdb
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\bin\Debug\BlogProject.DAL.dll
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\bin\Debug\BlogProject.Entities.dll
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\bin\Debug\EntityFramework.dll
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\bin\Debug\BlogProject.DAL.pdb
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\bin\Debug\BlogProject.DAL.dll.config
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\bin\Debug\BlogProject.Entities.pdb
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\bin\Debug\EntityFramework.xml
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\obj\Debug\BlogProject.Services.csprojAssemblyReference.cache
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\obj\Debug\BlogProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\obj\Debug\BlogProject.Services.csproj.CopyComplete
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\obj\Debug\BlogProject.Services.dll
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\obj\Debug\BlogProject.Services.pdb
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Services\bin\Debug\EntityFramework.SqlServer.xml

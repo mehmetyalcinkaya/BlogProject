@@ -1,0 +1,73 @@
+﻿@model ContactPage
+@{
+    ViewBag.Title = "İletişim";
+}
+<div class="row">
+    
+    <div class="col-4">
+        <h3 class="text-center">@Model.TitleName</h3>
+        <address>
+
+            <p>
+                DSM Grup Danışmanlık İletişim ve Satış Ticaret A.Ş. Maslak Mah. Büyükdere Cad. Noramin İş Merkezi NO:237/6 34398 Sarıyer/İstanbul
+            </p>
+            Tel: 0 212 331 0 200
+            <p>
+                Fax: 0 212 332 18 93
+            </p>
+            <p>
+                Maslak V.D. 313 055 7669
+            </p>
+            <p>
+                Ticaret Sicil No: 711896
+            </p>
+            <p>
+                MERSİS Numarası: 0313055766900016
+            </p>
+            <p>
+                E-posta: dsm@hs02.kep.tr
+            </p>
+            <p>
+                Sorumlu Kişi: Yasin Canki
+            </p>
+
+        </address>
+    </div>
+    <div class="col-8">
+        <form>
+
+            <div class="form-group">
+                <label for="inputEmail4">Email</label>
+                <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+            </div>
+
+            <div class="form-group">
+                <label for="inputAddress">Address</label>
+                <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputCity">City</label>
+                    <input type="text" class="form-control" id="inputCity">
+                </div>
+                <div class="form-group col-md-4">
+                    <label for="inputState">State</label>
+                    <select id="inputState" class="form-control">
+                        <option selected>Choose...</option>
+                        <option>...</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-2">
+                    <label for="inputZip">Zip</label>
+                    <input type="text" class="form-control" id="inputZip">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="inputMessage">Message</label>
+                <textarea class="form-control" rows="5" id="inputMessage"></textarea>
+            </div>
+
+            <input type="submit" class="btn btn-primary" value="Submit">
+        </form>
+    </div>
+    </div>

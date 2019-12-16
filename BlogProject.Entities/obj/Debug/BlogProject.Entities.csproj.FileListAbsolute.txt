@@ -1,0 +1,6 @@
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Entities\bin\Debug\BlogProject.Entities.dll
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Entities\bin\Debug\BlogProject.Entities.pdb
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Entities\obj\Debug\BlogProject.Entities.csprojAssemblyReference.cache
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Entities\obj\Debug\BlogProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Entities\obj\Debug\BlogProject.Entities.dll
+C:\Users\MEHMET\Desktop\BlogProject\BlogProject.Entities\obj\Debug\BlogProject.Entities.pdb
